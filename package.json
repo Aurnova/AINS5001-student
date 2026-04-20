@@ -1,8 +1,8 @@
 {
-  "name": "ains5001",
+  "name": "ains5001-student",
   "version": "1.0.0",
   "private": true,
-  "description": "AINS5001 — Aurnova — Populi-style course demo (GitHub Pages)",
+  "description": "AINS5001 student-facing Pages — Classroom + Codespaces entry",
   "type": "module",
   "scripts": {
     "build": "node scripts/build-site.mjs"
