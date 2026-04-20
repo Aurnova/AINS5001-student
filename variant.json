@@ -1,0 +1,14 @@
+{
+  "audience": "student",
+  "courseCode": "AINS5001",
+  "courseTitle": "A Modern Approach to AI",
+  "pillLabel": "Aurnova · AINS5001 · Student",
+  "description": "Student-facing entry — GitHub Classroom, Codespaces, and exercises. No instructor solutions, IMS packages, or full narrative here.",
+  "lessonsCatalogUrl": "https://inquiryinstitute.github.io/aima/slides/",
+  "navItemLinks": {
+    "Lessons": "https://inquiryinstitute.github.io/aima/slides/"
+  },
+  "programsCatalogUrl": "https://programs.castalia.institute/catalog/aima",
+  "alertText": "Student workspace — use your Classroom assignment and Codespace; see instructor for private materials.",
+  "termLabel": "2026-2027: Fall Semester 2026 A"
+}
